@@ -40,8 +40,8 @@ Self-learning • Teamwork • Clear communication
 
 ### 📜 Certifications & Badges
 - Applied Cryptography Specialization – University of Colorado System
-- TryHackMe – [Profile](https://tryhackme.com/p/SonTAIA)
 - LetsDefend SOC Modules
+- BTLO Challenger II
 - Cisco CyberOps Associate & Cisco Ethical Hacking
 - IELTS 7.0 (2022 - 2024)
 
