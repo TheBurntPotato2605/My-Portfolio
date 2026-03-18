@@ -16,7 +16,8 @@ Currently seeking a **SOC Analyst internship** to gain real-world experience in 
 ### 🛠️ Skills
 
 **Hard Skills**  
-- Threat Detection & Analysis (MITRE ATT&CK, Cyber Kill Chain, Pyramid of Pain)  
+- Threat Detection, Incident Response & Analysis (MITRE ATT&CK, Cyber Kill Chain, Pyramid of Pain)
+- Endpoint Forensic (Volatility3)
 - Network Analysis (Wireshark, OSI Model, TCP/IP)   
 - Programming: Python 
 - Operating Systems: Linux & Windows Fundamentals
