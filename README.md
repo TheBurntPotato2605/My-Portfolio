@@ -29,7 +29,7 @@ Self-learning • Teamwork • Clear communication
 
 ### 📂 Featured Projects & Writeups
 
-- **[SOAR + EDR Automated Response](https://github.com/YOUR_GITHUB_USERNAME/SOAR-EDR-Project)** 
+- **[SOAR + EDR Automated Response](https://github.com/TheBurntPotato2605/Project_SOAR-EDR)** 
   Built automated detection & response pipeline using **LimaCharlie (EDR)** + **Tines (SOAR)**. Includes real-time Slack/Email alerts, analyst decision step, and automatic host isolation.
 - [Endpoint Forensic](https://github.com/TheBurntPotato2605/BTLO-Cyberdefender_Writeups/tree/main/EndpointForensic)
 - [Incident Response](https://github.com/TheBurntPotato2605/BTLO-Cyberdefender_Writeups/tree/main/Incident-Response)
