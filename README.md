@@ -1,4 +1,3 @@
-
 <div align="center">
   <h1>Hi, I'm Trần Anh Sơn 👋</h1>
   <p><strong>SOC Analyst Intern</strong> • Information Assurance Student</p>
@@ -30,13 +29,52 @@ Self-learning • Teamwork • Clear communication
 
 ### 📂 Featured Projects & Writeups
 
+**🔗 Main Project**
 - **[SOAR + EDR Automated Response](https://github.com/TheBurntPotato2605/Project_SOAR-EDR)** 
   Built automated detection & response pipeline using **LimaCharlie (EDR)** + **Tines (SOAR)**. Includes real-time Slack/Email alerts, analyst decision step, and automatic host isolation.
-- [Endpoint Forensic](https://github.com/TheBurntPotato2605/BTLO-Cyberdefender_Writeups/tree/main/EndpointForensic)
-- [Incident Response](https://github.com/TheBurntPotato2605/BTLO-Cyberdefender_Writeups/tree/main/Incident-Response)
-- [Network Analysis](https://github.com/TheBurntPotato2605/BTLO-Cyberdefender_Writeups/tree/main/NetworkAnalysis)
-- [Security Operations](https://github.com/TheBurntPotato2605/BTLO-Cyberdefender_Writeups/tree/main/SecurityOperations)
-- [Threat Intelligence](https://github.com/TheBurntPotato2605/BTLO-Cyberdefender_Writeups/tree/main/ThreatIntelligence)
+
+---
+
+**📋 BTLO & Cyberdefenders Writeups**
+
+**🔬 Endpoint Forensic**
+- **[Amadey - APT-C-36 Lab](https://github.com/TheBurntPotato2605/BTLO-Cyberdefender_Writeups/tree/main/EndpointForensic/Amadey)**  
+  Volatility3 memory forensics analysis of the Amadey Trojan. Identified malicious processes (lsass.exe spoofing), C2 communications (41.75.84.12), lateral movement through rundll32.exe, and persistence via scheduled tasks.
+
+**🚨 Incident Response**
+- **[ATT&CK Framework Analysis](https://github.com/TheBurntPotato2605/BTLO-Cyberdefender_Writeups/tree/main/Incident-Response/ATT%26CK)**  
+  Tactical and technical analysis using MITRE ATT&CK framework to map adversary behaviors and develop detection strategies.
+
+- **[Follina Exploitation Lab](https://github.com/TheBurntPotato2605/BTLO-Cyberdefender_Writeups/tree/main/Incident-Response/Follina)**  
+  Analysis of the Follina vulnerability (CVE-2022-30190) exploitation, containment strategies, and incident response procedures.
+
+**🔍 Network Analysis**
+- **[PoisonedCredentials](https://github.com/TheBurntPotato2605/BTLO-Cyberdefender_Writeups/tree/main/NetworkAnalysis/PoisonedCredentials)**  
+  Wireshark packet analysis focused on credential exfiltration, network reconnaissance, and lateral movement techniques via network traffic analysis.
+
+- **[WebStrike](https://github.com/TheBurntPotato2605/BTLO-Cyberdefender_Writeups/tree/main/NetworkAnalysis/WebStrike)**  
+  Web-based attack investigation using network traffic analysis to identify command injection, data exfiltration, and C2 communications.
+
+**📊 Security Operations**
+- **[Phishing Analysis](https://github.com/TheBurntPotato2605/BTLO-Cyberdefender_Writeups/tree/main/SecurityOperations/PhishingAnalysis)**  
+  Email-based threat investigation including header analysis, URL/attachment analysis, and phishing campaign attribution.
+
+- **[Phishing Analysis 2](https://github.com/TheBurntPotato2605/BTLO-Cyberdefender_Writeups/tree/main/SecurityOperations/PhishingAnalysis2)**  
+  Advanced phishing investigation with focus on social engineering techniques, payload delivery mechanisms, and user awareness.
+
+**🎯 Threat Intelligence**
+- **[OskiLab](https://github.com/TheBurntPotato2605/BTLO-Cyberdefender_Writeups/tree/main/ThreatIntelligence/OskiLab)**  
+  Analysis of Oski stealer malware, malware capabilities, IOCs, and threat actor TTPs.
+
+- **[TheReport](https://github.com/TheBurntPotato2605/BTLO-Cyberdefender_Writeups/tree/main/ThreatIntelligence/TheReport)**  
+  Comprehensive threat intelligence report covering adversary infrastructure, IOC extraction, and threat landscaping.
+
+- **[YellowRAT](https://github.com/TheBurntPotato2605/BTLO-Cyberdefender_Writeups/tree/main/ThreatIntelligence/YellowRAT)**  
+  Deep dive analysis of YellowRAT malware, command & control infrastructure, and malware reverse engineering insights.
+
+- **[ThePackage (In-progress)](https://github.com/TheBurntPotato2605/BTLO-Cyberdefender_Writeups/tree/main/ThreatIntelligence/ThePackage%20(In-progress))**  
+  Ongoing investigation of a sophisticated malware package including delivery mechanisms and evasion techniques.
+
 ---
 
 ### 📜 Certifications & Badges
