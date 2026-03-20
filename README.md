@@ -9,7 +9,7 @@
 ### About Me
 Final-year Information Assurance student at FPT University (GPA: 8.1/10) with strong interest in **threat detection, incident response, and system monitoring**.  
 
-Currently seeking a **SOC Analyst internship** to gain real-world experience in cybersecurity operations. Passionate about Blue Team work, MITRE ATT&CK, and building automated detection/response pipelines.
+Currently seeking a **SOC Analyst internship** to gain real-world experience in cybersecurity operations. Passionate about Blue Team work, MITRE ATT&CK, and investigating incident.
 
 ---
 
@@ -50,9 +50,6 @@ Self-learning • Teamwork • Clear communication
 
 ### 📫 Get in Touch
 - Email: trananhson2005th@gmail.com  
-- Phone: 0859 566 264  
-- Location: Thủ Đức, Hồ Chí Minh City, Vietnam  
-
 ---
 
 <p align="center">
