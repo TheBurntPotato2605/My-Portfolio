@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1>Hi, I'm Trần Anh Sơn 👋</h1>
-  <p><strong>SOC Analyst Intern</strong> • Cybersecurity Student</p>
+  <p><strong>SOC Analyst Intern</strong> • Information Assurance Student</p>
 </div>
 
 ---
